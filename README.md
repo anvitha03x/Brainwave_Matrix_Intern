@@ -38,7 +38,7 @@ Why Used? Similar to revenue, the line chart helps analyze profit fluctuations a
 
 iv. Distribution of Age Groups (Bar Chart)
 
-Why Used? A bar chart is ideal for comparing different age groups and identifying which segment contributes most to sales.
+Why Used? A bar chart made like histogram is ideal for comparing different age groups and identifying which segment contributes most to sales.
 
 v. Source Flow Analysis (Donut Chart)
 
@@ -48,9 +48,6 @@ vi. Referral Insights (Pie Chart)
 
 Why Used? A pie chart helps visualize the proportion of referrals from different social media platforms (Instagram, Facebook, Twitter (X), WhatsApp, and others).
 
-vii. Filters & Slicers
-
-Added slicers for Year, Location, and Shopping Type to allow interactive exploration of data.
 
 3. Why Power BI?
 
